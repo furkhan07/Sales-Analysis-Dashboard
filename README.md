@@ -15,33 +15,26 @@ Styling: CSS Modules or styled-components
 🔧 Getting Started
 Follow these steps to run the application locally:
 
-Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the Project Directory
 
-bash
-Copy code
-cd your-repo-name
-Install Dependencies
+1. Copy code
+   git clone https://github.com/your-username/your-repo-name.git
 
-bash
-Copy code
-npm install
-Start the Development Server
+2. Navigate to the Project Directory
+   cd your-repo-name
 
-bash
-Copy code
-npm start
-Access the Application
-Open your browser and visit:
-http://localhost:3000
+3. Install Dependencies
+   npm install
+
+4. Start the Development Server
+   npm start
+
+5. Access the Application
+  Open your browser and visit:
+  http://localhost:3000
 
 🌐 Live Demo
-🔗 View the Live Project Here
-(Replace # with your live demo URL)
+🔗 http://localhost:3000/
 
 🤝 Contributing
 Contributions are welcome!
@@ -49,10 +42,11 @@ Contributions are welcome!
 Fork the repository.
 Create a feature branch.
 Submit a pull request.
+
 📜 License
 This project is licensed under the MIT License.
 
 📧 Contact
 Have questions or feedback? Reach out at:
-📩 your-email@example.com
+📩 furkhanadoni415@gmail.com
 
