@@ -20,10 +20,10 @@ Follow these steps to run the application locally:
 
 
 1. Copy code  
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/furkhan07/Sales-Analysis-Dashboard 
 
 2. Navigate to the Project Directory  
-   cd your-repo-name  
+   cd Sales-Analysis-Dashboard  
  
 3. Install Dependencies  
    npm install  
